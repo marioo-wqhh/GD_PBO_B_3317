@@ -1,4 +1,3 @@
-
 const kamera = {
     ambilFoto() {
         console.log(this.nama + " mengambil foto.")

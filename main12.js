@@ -44,3 +44,4 @@ sari.info()
 
 prosesLembur([budi, sari])
 berikanUangSaku([rina])
+ 
